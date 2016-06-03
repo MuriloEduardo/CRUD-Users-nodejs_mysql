@@ -1,0 +1,19 @@
+{
+  "name": "aplicacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Murilo Santos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "hat": "0.0.3",
+    "http": "0.0.0",
+    "mysql": "^2.10.2",
+    "validator": "^5.2.0"
+  }
+}
